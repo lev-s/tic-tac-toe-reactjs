@@ -97,5 +97,3 @@ function calculateWinner(squares) {
 
     return null;
 }
-
-// happy new year
