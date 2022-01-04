@@ -1,8 +1,16 @@
 # Tic Tac Toe Game in ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is dedicated for WebTech Course in Ala-Too University. It was written in ReactJS.
+It is a Tic-Tac-Toe game, winner is the one, who has same 3 positions in one by one. More about Tic-Tac-Toe game can be learn from:
+https://www.wikihow.com/Play-Tic-Tac-Toe
 
-## Available Scripts
+
+## Authors:
+Sherkhan Naimanov Math19
+Ayse Semra Dinc Math18
+
+![image](https://user-images.githubusercontent.com/34050903/148025017-bf16e250-8e3d-413e-8d7d-8117334bb250.png)
+
 
 In the project directory, you can run:
 
